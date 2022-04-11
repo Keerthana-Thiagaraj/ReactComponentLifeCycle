@@ -16,7 +16,7 @@ class App extends Component {
   setNewValue(){
     this.setState(
       {
-        value:this.state.value+2
+        value:this.state.value+4
       }
     )
   }
